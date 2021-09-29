@@ -1,5 +1,5 @@
 ----------------------------------------------------------------------------------------------
-## Discontinued
+## Discontinued (and pseudo-recontinued)
 
 I decided to discontinue the development of this tool to concentrate my efforts on others one projects.
 
